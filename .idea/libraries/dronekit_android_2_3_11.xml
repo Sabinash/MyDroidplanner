@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dronekit-android-2.3.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.3.11/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.3.11/libs/Mavlink.jar!/" />
+      <root url="file://$PROJECT_DIR$/Android/build/intermediates/exploded-aar/com.o3dr.android/dronekit-android/2.3.11/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

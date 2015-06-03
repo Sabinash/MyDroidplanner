@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\libs\sius-0.3.2-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5c0de3f6e8332a9c281f7c00db3edae3746c759">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\sius-0.3.2-SNAPSHOT-40c447c1ea08a3c64d0b305aff221937f2e1c4bd.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-37fc96987dbf08bc240b67cbb6bdd797a38d67a4.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-f790daaebc873255760ef63181bf3c1152cb82f8.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.o3dr.android\dronekit-android\2.3.11\libs\Mavlink.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49f65fc26c6a9a04fdce0be2be56357263f896fa">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\Mavlink-e5e408e4deac07c7372dba14bc8db46a302f897a.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66fd9d179eb79b64c99e555dead32e725792217a">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-f281072927a020e33593e98492bac66c74200f98.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-0ea97e7c39ac59cb58619cb6212e3fd00e5cf3de.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\libs\droneapi-java-0.3-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a4e96b9dec592b176ef872faf0b42c75f993c5e">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\droneapi-java-0.3-SNAPSHOT-60e2616513d2b8e639b2b247878e5cf89694e94d.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\2.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="579a13f257d393fa870a50809656089cdbeb7506">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-82d03e3cbbc5276ddeb8df89b877255b9fc83dd0.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-0d6a3f98a96b7ce5f800ef2589a2e494df73638e.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-2f9b727d1cff8916ae7b03b56336aa08f79f1198.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\shimmer-android-release\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5fa5cadfe1ff032aa74e53c331e3dde35d0be3e">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-629222624b2b04165c3d5551aaf9fbd735171543.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-cf4beb00492a45706680908366508667f9ac7998.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\libs\jeromq-0.3.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1aaa40f8267f9e3dc86dc8e7e0fbfba0c6e9e47b">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\jeromq-0.3.4-ac5d226584814a6d47f25a386ad0b734849f223c.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-193b7e4fb967adb6d2e0cc53b3410a09dd4e6742.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\libs\protobuf-java-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\protobuf-java-2.5.0-6e1c649f21f6fe4dcac14baddeecebaf1fb21207.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-e5795395c1ab92931705ecc2df1221944032425b.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-f2b1c8924d33964d1335893ec52f52eaef3a7a8e.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\libs\j2xx.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c9d8dd437e722f60d61bd88ceb779b7d71f67230">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\j2xx-545ca42ff3071320f70b15132c1f0a54509f51d2.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.o3dr.android\dronekit-android\2.3.11\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4762ccbd96bcb06c9e8679980d044beaaece4461">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-a96f806a09c55a66e2e3c52643539574be578d3d.jar" />
+    </item>
+    <item
+        jar="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\classes-d263aab4ad40b925e429fdb2c2867505e37b19b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\abinash_s\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\DroidPlanner\Tower-master\Tower-master\Android\build\intermediates\pre-dexed\debug\library-2.4.0-ba776593ef864da94e91e2aa7b0968b7022aae61.jar" />
+    </item>
+
+</items>
